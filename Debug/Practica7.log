@@ -1,0 +1,13 @@
+﻿Compilación iniciada a las 19/11/2015 16:24:25.
+     1>Proyecto "c:\Users\Daniel\documents\visual studio 2015\Projects\Practica7\Practica7\Practica7.vcxproj" en el nodo 2 (Build destinos).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\daniel\documents\visual studio 2015\Projects\Practica7\Debug\Practica7.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"c:\users\daniel\documents\visual studio 2015\Projects\Practica7\Debug\Practica7.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\daniel\documents\visual studio 2015\Projects\Practica7\Debug\Practica7.lib" /MACHINE:X86 Debug\Practica7.obj
+         Debug\stdafx.obj
+         Debug\TablaPalabrasReservadas.obj
+         Debug\TablaSimbolos.obj
+         Practica7.vcxproj -> c:\users\daniel\documents\visual studio 2015\Projects\Practica7\Debug\Practica7.exe
+     1>Compilación del proyecto terminada "c:\Users\Daniel\documents\visual studio 2015\Projects\Practica7\Practica7\Practica7.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:01.33
